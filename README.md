@@ -11,7 +11,7 @@
 
 |With Sublime Text, PyCharm, IntelliJ IDEA|Design Tools|More links|
 |:-:|:-:|:-:|
-|Python, JavaScript, HTML, CSS, PHP, C++?, ??|[![Adobe Illustrator](https://badges.aleen42.com/src/illustrator.svg)](https://www.adobe.com/products/illustrator.html) [![Adobe Photoshop](https://badges.aleen42.com/src/photoshop.svg)](https://www.adobe.com/products/photoshop.html) [![Adobe Premiere Pro](https://badges.aleen42.com/src/premiere.svg)](https://www.adobe.com/products/premiere.html)<br>[FL Studio 20](https://www.image-line.com/), [FireAlpaca](https://firealpaca.com/)|[![youtube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/channel/UC158Eus6w90B6clNbUBNPZA) [![soundcloud](https://badges.aleen42.com/src/soundcloud.svg)](https://soundcloud.com/user-457225794) [![spotify](https://badges.aleen42.com/src/spotify.svg)](https://open.spotify.com/user/sonicaii)|
+|**Python**, JavaScript, HTML, CSS, PHP<br />*And a touch of C++ and Java*|[![Adobe Illustrator](https://badges.aleen42.com/src/illustrator.svg)](https://www.adobe.com/products/illustrator.html) [![Adobe Photoshop](https://badges.aleen42.com/src/photoshop.svg)](https://www.adobe.com/products/photoshop.html) [![Adobe Premiere Pro](https://badges.aleen42.com/src/premiere.svg)](https://www.adobe.com/products/premiere.html)<br />[FL Studio 20](https://www.image-line.com/), [FireAlpaca](https://firealpaca.com/)|[![youtube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/channel/UC158Eus6w90B6clNbUBNPZA) [![soundcloud](https://badges.aleen42.com/src/soundcloud.svg)](https://soundcloud.com/user-457225794) [![spotify](https://badges.aleen42.com/src/spotify.svg)](https://open.spotify.com/user/sonicaii)|
 <br>
 
 
