@@ -1,5 +1,5 @@
 [<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Sonicaii&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />](#)
-<p align="center"><a href="#"><img height="69em" src="https://count.getloli.com/get/@:Sonicaii?theme=gelbooru" alt="Sonicaii" /><br /><img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg" /><br>_:: 0x45 ^ \\ ></a></p>
+<p align="center"><a href="#"><img height="69em" src="https://count.getloli.com/get/@:Sonicaii?theme=gelbooru" alt="Sonicaii" /><br /><img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg" /></a><br>_:: 0x45 ^ \\ ></p>
 
 ---
 # Check out:
