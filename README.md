@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img height="69em" src="https://count.getloli.com/get/@:Sonicaii?theme=rule34" alt="Sonicaii" /><br /><img src="https://forthebadge.com/images/badges/eicar-antivirus-test-string.svg" /></a><br />_:: 0x45 ^ \\ ></p>
+<p align="center"><a href="https://github.com/Sonicaii/Divergence-Counter/"><img height="128px" src="http://projectgungame.top:13102/Sonicaii" alt="Sonicaii" /></a><br />_:: 0x45 ^ \\ ></p>
 
 |Languages|Software|Hardware|
 |:-:|:-:|:-:|
