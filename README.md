@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Sonicaii/Divergence-Counter/"><img height="128px" src="http://projectgungame.top:13102/Sonicaii" alt="Sonicaii" /></a><br />_:: 0x45 ^ \\ ></p>
+<p align="center"><a href="https://github.com/Sonicaii/Divergence-Counter/"><img height="128px" src="https://is-my.boo/Kyouma/Sonicaii" alt="Sonicaii" /></a><br />_:: 0x45 ^ \\ ></p>
 projects:
 pgg
 vl
